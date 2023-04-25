@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/02f87985-999c-49bd-84e2-4e2e7f68a8ac/deploy-status)](https://app.netlify.com/sites/lucent-marshmallow-646e92/deploys)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
